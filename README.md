@@ -1,4 +1,5 @@
-# elementUI
+# MEGA
+Make ElementUI Great Again
 
 > vue + vue-cli + elementUI + vue-charts
 
